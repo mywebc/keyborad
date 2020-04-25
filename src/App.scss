@@ -1,0 +1,16 @@
+.wrapper {
+    #fakeInput {
+        border: 1px solid #aaa;
+        width: 140px;
+        height: 40px;
+    }
+
+    #main {
+        display: fixed;
+        bottom: 0;
+
+        .akeyboard-mobileKeyboard-keys {
+            width: 24px;
+        }
+    }
+}
